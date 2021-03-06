@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+#header{
+    font-family: 'Orbitron';
+    color:#17D4FE;
+}
+
+body{
+    background-color: black;
+}
+.main-container{
+    text-align: center;
+    background-color:transparent;
+    margin-top: 250px;
+    font-size: 30px;
+}
